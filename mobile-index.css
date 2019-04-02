@@ -1,0 +1,77 @@
+@media (min-width: 320px){
+	.col-11.column-menu{
+		max-width: 90.566667%;
+	}
+}
+
+@media (min-width: 361px){
+	.col-11.column-menu{
+		max-width: 91.666667%
+	}
+}
+
+@media (min-width: 400px){
+	.side-bar .icons .icon-place>span{
+		padding: 0.5vw;
+	}
+	.user-list img{
+	  width: 30px;
+	  height: 30px;
+	}
+	.side-bar {
+    	height: 100vh;
+	}
+}
+
+@media (min-width: 576px){
+	.side-bar .icons .icon-place>span{
+		padding: 1vw;
+	}
+}
+
+@media (min-width: 768px){
+	.side-bar .icons .icon-place>span{
+		padding: 0.5vw;
+	}
+	.user-list img{
+	  width: 40px;
+	  height: 40px;
+	}
+	.chatboard .chat{
+	  border: none;
+	}
+}
+
+@media (min-width: 992px){
+	.side-bar .icons .icon-place>span{
+		padding: 0.5vw;
+	}
+}
+
+@media (min-width: 1200px){
+	.col-1.side-bar{
+		max-width: 5%;
+	}
+	.col-xl-3.user-profile{
+		max-width: 20%;
+	}
+	.user-profile .card-header{
+	  padding-bottom: 20px !important;
+	}
+}
+
+@media (min-width: 1600px){
+	.side-bar .icons .icon-place>span{
+		padding: 1vw;
+	}
+	.user-list img{
+	  width: 60px;
+	  height: 60px;
+	}
+}
+
+@media (min-width: 2000px){
+	.side-bar .icons .icon-place>span{
+		padding: 1.3vw;
+	}
+}
